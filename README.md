@@ -27,16 +27,23 @@ The sentences:
 
 ## 4. Romance
 4.1 Catalan (F)
+
 4.2 Italian (central) (M)
+
 4.3 Brazilian Portuguese (F)
+
 4.4 Cuban Spanish (M)
+
 4.5 Mexico City Spanish (M)
 
 ## Semitic
 ### Arabic
 5.1.1 Egyptian Arabic (F)
+
 5.1.2 Palestinain Arabic (central) (F)
+
 5.1.3 Syrian Arabic (F) [b]
+
 5.1.4 Standard Arabic (F) [b]
 
 ### Hebrew
@@ -47,7 +54,9 @@ The sentences:
 
 ## Slavic
 7.1 Bulgarian (standard) (F)
+
 7.2 Serbian (F)
+
 7.3 Ukrainian (M)
 
 ### Turkic
