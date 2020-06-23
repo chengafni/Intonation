@@ -22,6 +22,7 @@ The sentences:
 
 ## 3. Philippine
 3.1 Cebuano (M) [a]
+
 3.2 Tagalog (M) [a]
 
 ## 4. Romance
