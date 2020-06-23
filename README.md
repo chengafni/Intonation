@@ -30,7 +30,7 @@ The sentences:
 
 4.2 Italian (central) (M)
 
-4.3 Brazilian Portuguese (F)
+4.3 Brazilian Portuguese (Sao Paulo) (F)
 
 4.4 Cuban Spanish (M)
 
