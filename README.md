@@ -36,8 +36,8 @@ The sentences:
 
 4.5 Mexico City Spanish (M)
 
-## Semitic
-### Arabic
+## 5. Semitic
+### 5.1 Arabic
 5.1.1 Egyptian Arabic (F)
 
 5.1.2 Palestinain Arabic (central) (F)
@@ -46,18 +46,18 @@ The sentences:
 
 5.1.4 Standard Arabic (F) [b]
 
-### Hebrew
-5.2 Hebrew (M)
+### 5.2 Hebrew
+5.2.1 Hebrew (M)
 
-## Sino-Tibetan
+## 6. Sino-Tibetan
 6.1 Mandarin Chinese (M)
 
-## Slavic
+## 7. Slavic
 7.1 Bulgarian (standard) (F)
 
 7.2 Serbian (F)
 
 7.3 Ukrainian (M)
 
-### Turkic
+## 8. Turkic
 8.1 Turkish (M)
