@@ -39,7 +39,7 @@ The sentences:
 4.5 Mexico City Spanish (M)
 
 ## 5. Semitic
-### 5.1 Arabic
+### 5.1 [Arabic](https://github.com/chengafni/Intonation/tree/Arabic)
 5.1.1 Egyptian Arabic (F)
 
 5.1.2 Palestinain Arabic (central) (F)
