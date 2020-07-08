@@ -1,0 +1,72 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.3142265625 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 1.3142265625 
+        intervals: size = 10 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.011585223765416089 
+            text = "" 
+        intervals [2]:
+            xmin = 0.011585223765416089 
+            xmax = 0.16682918526470825 
+            text = "nì" 
+        intervals [3]:
+            xmin = 0.16682918526470825 
+            xmax = 0.32870750409303 
+            text = "kə́n" 
+        intervals [4]:
+            xmin = 0.32870750409303 
+            xmax = 0.42424224963105595 
+            text = "ɥé:" 
+        intervals [5]:
+            xmin = 0.42424224963105595 
+            xmax = 0.6179654836387197 
+            text = "xæ̂n" 
+        intervals [6]:
+            xmin = 0.6179654836387197 
+            xmax = 0.8621098333470081 
+            text = "tʰæ̌n" 
+        intervals [7]:
+            xmin = 0.8621098333470081 
+            xmax = 0.9974507228592116 
+            text = "kʷô" 
+        intervals [8]:
+            xmin = 0.9974507228592116 
+            xmax = 1.0783898822733724 
+            text = "lɤ́ " 
+        intervals [9]:
+            xmin = 1.0783898822733724 
+            xmax = 1.2999774170629603 
+            text = "ma" 
+        intervals [10]:
+            xmin = 1.2999774170629603 
+            xmax = 1.3142265625 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 1.3142265625 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.011585223765416089 
+            text = "" 
+        intervals [2]:
+            xmin = 0.011585223765416089 
+            xmax = 1.2999774170629603 
+            text = "nì kə́n ɥé:xæ̂n tʰæ̌n kʷô lɤ́ ma?" 
+        intervals [3]:
+            xmin = 1.2999774170629603 
+            xmax = 1.3142265625 
+            text = "" 

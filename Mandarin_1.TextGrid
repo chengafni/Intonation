@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.1428984375 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 1.1428984375 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.010331887856942635 
+            text = "" 
+        intervals [2]:
+            xmin = 0.010331887856942635 
+            xmax = 0.17788780083598352 
+            text = "wò:" 
+        intervals [3]:
+            xmin = 0.17788780083598352 
+            xmax = 0.34055564918908754 
+            text = "kə́n" 
+        intervals [4]:
+            xmin = 0.34055564918908754 
+            xmax = 0.45494787803094777 
+            text = "ɥé:" 
+        intervals [5]:
+            xmin = 0.45494787803094777 
+            xmax = 0.6501492960546725 
+            text = "xæ̂n" 
+        intervals [6]:
+            xmin = 0.6501492960546725 
+            xmax = 0.878933753738393 
+            text = "tʰæ̌n" 
+        intervals [7]:
+            xmin = 0.878933753738393 
+            xmax = 1.0195627323146248 
+            text = "kʷô" 
+        intervals [8]:
+            xmin = 1.0195627323146248 
+            xmax = 1.131496735856798 
+            text = "lɤ́" 
+        intervals [9]:
+            xmin = 1.131496735856798 
+            xmax = 1.1428984375 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 1.1428984375 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.010331887856942635 
+            text = "" 
+        intervals [2]:
+            xmin = 0.010331887856942635 
+            xmax = 1.131496735856798 
+            text = "wò: kə́n ɥé:xæ̂n tʰæ̌n kʷô lɤ́" 
+        intervals [3]:
+            xmin = 1.131496735856798 
+            xmax = 1.1428984375 
+            text = "" 

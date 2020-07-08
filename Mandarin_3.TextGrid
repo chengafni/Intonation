@@ -1,0 +1,72 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.3370416666666667 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 1.3370416666666667 
+        intervals: size = 10 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.013136250491902372 
+            text = "" 
+        intervals [2]:
+            xmin = 0.013136250491902372 
+            xmax = 0.13176160921984817 
+            text = "nì" 
+        intervals [3]:
+            xmin = 0.13176160921984817 
+            xmax = 0.2864364813486995 
+            text = "ʈʂɻ̩́" 
+        intervals [4]:
+            xmin = 0.2864364813486995 
+            xmax = 0.49399165164126063 
+            text = "tɕʰǐɛn" 
+        intervals [5]:
+            xmin = 0.49399165164126063 
+            xmax = 0.5918202032441239 
+            text = "tsaî" 
+        intervals [6]:
+            xmin = 0.5918202032441239 
+            xmax = 0.7385630306484187 
+            text = "kə́n" 
+        intervals [7]:
+            xmin = 0.7385630306484187 
+            xmax = 0.9302541114918669 
+            text = "ʂěi" 
+        intervals [8]:
+            xmin = 0.9302541114918669 
+            xmax = 1.1153351550648514 
+            text = "tʰæ̌n" 
+        intervals [9]:
+            xmin = 1.1153351550648514 
+            xmax = 1.3225451546440563 
+            text = "xuâ" 
+        intervals [10]:
+            xmin = 1.3225451546440563 
+            xmax = 1.3370416666666667 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 1.3370416666666667 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.013136250491902372 
+            text = "" 
+        intervals [2]:
+            xmin = 0.013136250491902372 
+            xmax = 1.3225451546440563 
+            text = "nì ʈʂɻ̩́ tɕʰǐɛn tsaî kə́n ʂěi tʰæ̌n xuâ?" 
+        intervals [3]:
+            xmin = 1.3225451546440563 
+            xmax = 1.3370416666666667 
+            text = "" 
