@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.136530612244898 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 1.136530612244898 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.012313722762628954 
+            text = "" 
+        intervals [2]:
+            xmin = 0.012313722762628954 
+            xmax = 0.17525386695498998 
+            text = "əm" 
+        intervals [3]:
+            xmin = 0.17525386695498998 
+            xmax = 0.37720784848918393 
+            text = "kí" 
+        intervals [4]:
+            xmin = 0.37720784848918393 
+            xmax = 0.5160512107939422 
+            text = "as" 
+        intervals [5]:
+            xmin = 0.5160512107939422 
+            xmax = 0.7076780000905921 
+            text = "pəɾ" 
+        intervals [6]:
+            xmin = 0.7076780000905921 
+            xmax = 1.121913155396524 
+            text = "lat" 
+        intervals [7]:
+            xmin = 1.121913155396524 
+            xmax = 1.136530612244898 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 1.136530612244898 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.012313722762628954 
+            text = "" 
+        intervals [2]:
+            xmin = 0.012313722762628954 
+            xmax = 1.121913155396524 
+            text = "əm kí as pəɾˈlat" 
+        intervals [3]:
+            xmin = 1.121913155396524 
+            xmax = 1.136530612244898 
+            text = "" 
