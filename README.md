@@ -68,5 +68,5 @@
 
 7.3 Ukrainian
 
-## 8. Turkic
-8.1 Turkish (M)
+## 8. [Turkic](https://github.com/chengafni/Intonation/tree/Turkic)
+8.1 Turkish
