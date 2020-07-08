@@ -1,15 +1,16 @@
 # Intonation
 *Intonation patterns in various languages and dialects.*
 
+**Updated:** 8 July 2020
+
 * This repository contains recordings of three sentences in various languages and dialects.
-* The aim is to demonstrate a possible typology of intonation patterns of various sentence types:
+* The aim is to demonstrate a possible typology of intonation patterns of various sentence types.
+* The sentences are:
+1. I talked to John      (Declarative)
+2. Did you talk to John? (Polar (yes-no) question)
+3. Who did you talk to?  (wh-question)
 
-The sentences are:
-1. I talked to John         (Declarative)
-2. Did you talk to John?    (Polar (yes-no) question)
-3. Who did you talk to?     (wh-question)
-
-* The samples are organized by language family and, when multiple dialects are available, also by main language (see below).
+* The samples are organized by language family and, when multiple dialects from the same language are available, also by main language (see below).
 * The recordings are accompanied by a file containing the written and/or phonetic transcriptions of the sentences.
 
 ## Notes:
