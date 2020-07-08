@@ -51,22 +51,3 @@
 4.4 Cuban Spanish (M)
 
 4.5 Mexico City Spanish (M)
-
-## 5. Semitic
-### 5.1 [Arabic (4 dialects)](https://github.com/chengafni/Intonation/tree/Arabic)
-
-### 5.2 Hebrew
-5.2.1 Hebrew (M)
-
-## 6. Sino-Tibetan
-6.1 Mandarin Chinese (M)
-
-## 7. Slavic
-7.1 Bulgarian (standard) (F)
-
-7.2 Serbian (F)
-
-7.3 Ukrainian (M)
-
-## 8. Turkic
-8.1 Turkish (M)
