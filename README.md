@@ -41,7 +41,7 @@
 
 3.2 Tagalog (M) [a]
 
-## 4. [Romance] (https://github.com/chengafni/Intonation/tree/Romance)
+## 4. [Romance](https://github.com/chengafni/Intonation/tree/Romance)
 4.1 Catalan
 
 4.2 Italian (central)
