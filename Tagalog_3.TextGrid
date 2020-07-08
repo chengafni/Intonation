@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.5280498866213152 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 1.5280498866213152 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.013470127880805653 
+            text = "" 
+        intervals [2]:
+            xmin = 0.013470127880805653 
+            xmax = 0.30196477110914355 
+            text = "si" 
+        intervals [3]:
+            xmin = 0.30196477110914355 
+            xmax = 0.46858199821427987 
+            text = "no" 
+        intervals [4]:
+            xmin = 0.46858199821427987 
+            xmax = 0.6922810531239536 
+            text = "baŋ" 
+        intervals [5]:
+            xmin = 0.6922810531239536 
+            xmax = 0.7910171877047751 
+            text = "ka" 
+        intervals [6]:
+            xmin = 0.7910171877047751 
+            xmax = 0.9452923979873087 
+            text = "ʔuː" 
+        intervals [7]:
+            xmin = 0.9452923979873087 
+            xmax = 1.263099331169328 
+            text = "sap" 
+        intervals [8]:
+            xmin = 1.263099331169328 
+            xmax = 1.5145679239298577 
+            text = "mo" 
+        intervals [9]:
+            xmin = 1.5145679239298577 
+            xmax = 1.5280498866213152 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 1.5280498866213152 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.013470127880805653 
+            text = "" 
+        intervals [2]:
+            xmin = 0.013470127880805653 
+            xmax = 1.5145679239298577 
+            text = "sino baŋ kaʔuːsap mo" 
+        intervals [3]:
+            xmin = 1.5145679239298577 
+            xmax = 1.5280498866213152 
+            text = "" 

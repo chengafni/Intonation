@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.15875283446712 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 2.15875283446712 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.010311832736526028 
+            text = "" 
+        intervals [2]:
+            xmin = 0.010311832736526028 
+            xmax = 0.13672418957957203 
+            text = "na" 
+        intervals [3]:
+            xmin = 0.13672418957957203 
+            xmax = 0.27621368678569175 
+            text = "ki" 
+        intervals [4]:
+            xmin = 0.27621368678569175 
+            xmax = 0.51596126010871 
+            text = "pag" 
+        intervals [5]:
+            xmin = 0.51596126010871 
+            xmax = 0.7142978889486614 
+            text = "ʔuː" 
+        intervals [6]:
+            xmin = 0.7142978889486614 
+            xmax = 1.032508304450122 
+            text = "sap" 
+        intervals [7]:
+            xmin = 1.032508304450122 
+            xmax = 1.158920661293168 
+            text = "ka" 
+        intervals [8]:
+            xmin = 1.158920661293168 
+            xmax = 1.3027692052869788 
+            text = "ba" 
+        intervals [9]:
+            xmin = 1.3027692052869788 
+            xmax = 1.5250805914592322 
+            text = "kaj" 
+        intervals [10]:
+            xmin = 1.5250805914592322 
+            xmax = 2.1484242820990795 
+            text = "dʒan" 
+        intervals [11]:
+            xmin = 2.1484242820990795 
+            xmax = 2.15875283446712 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 2.15875283446712 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.010311832736526028 
+            text = "" 
+        intervals [2]:
+            xmin = 0.010311832736526028 
+            xmax = 2.1484242820990795 
+            text = "nakipagʔuːsap ka ba kaj dʒan" 
+        intervals [3]:
+            xmin = 2.1484242820990795 
+            xmax = 2.15875283446712 
+            text = "" 
