@@ -62,11 +62,11 @@
 6.1 Mandarin Chinese
 
 ## 7. Slavic
-7.1 Bulgarian (standard) (F)
+7.1 Bulgarian (standard)
 
-7.2 Serbian (F)
+7.2 Serbian
 
-7.3 Ukrainian (M)
+7.3 Ukrainian
 
 ## 8. Turkic
 8.1 Turkish (M)
