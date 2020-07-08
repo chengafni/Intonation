@@ -11,7 +11,8 @@
 3. Who did you talk to?  (wh-question)
 
 * The samples are organized by language family and, when multiple dialects from the same language are available, also by main language (see below).
-* The recordings are accompanied by a file containing the written and/or phonetic transcriptions of the sentences.
+* The recordings are accompanied by TextGrid files for viewing on Praat. 
+* An additional PDF file contains the written and/or phonetic transcriptions of the sentences.
 
 ## Notes:
 1) The sex of the speaker is indicated in parentheses (F = female, M = male). No other personal demographic information is available.
@@ -52,14 +53,7 @@
 4.5 Mexico City Spanish (M)
 
 ## 5. Semitic
-### 5.1 [Arabic](https://github.com/chengafni/Intonation/tree/Arabic)
-5.1.1 Egyptian Arabic (F)
-
-5.1.2 Palestinain Arabic (central) (F)
-
-5.1.3 Syrian Arabic (F) [b]
-
-5.1.4 Standard Arabic (F) [b]
+### 5.1 [Arabic (4 dialects)](https://github.com/chengafni/Intonation/tree/Arabic)
 
 ### 5.2 Hebrew
 5.2.1 Hebrew (M)
