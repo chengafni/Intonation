@@ -1,0 +1,64 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.089591836734694 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 1.089591836734694 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.00960501453990521 
+            text = "" 
+        intervals [2]:
+            xmin = 0.00960501453990521 
+            xmax = 0.19550344319327898 
+            text = "kom" 
+        intervals [3]:
+            xmin = 0.19550344319327898 
+            xmax = 0.347251786579645 
+            text = "kem" 
+        intervals [4]:
+            xmin = 0.347251786579645 
+            xmax = 0.4430362019086278 
+            text = "vo" 
+        intervals [5]:
+            xmin = 0.4430362019086278 
+            xmax = 0.6033943803807451 
+            text = "se" 
+        intervals [6]:
+            xmin = 0.6033943803807451 
+            xmax = 0.7755910820957704 
+            text = "fa" 
+        intervals [7]:
+            xmin = 0.7755910820957704 
+            xmax = 1.075578081641595 
+            text = "lo" 
+        intervals [8]:
+            xmin = 1.075578081641595 
+            xmax = 1.089591836734694 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 1.089591836734694 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.00960501453990521 
+            text = "" 
+        intervals [2]:
+            xmin = 0.00960501453990521 
+            xmax = 1.075578081641595 
+            text = "kom kem vose falo?" 
+        intervals [3]:
+            xmin = 1.075578081641595 
+            xmax = 1.089591836734694 
+            text = "" 

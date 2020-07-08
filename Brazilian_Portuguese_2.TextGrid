@@ -1,0 +1,64 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.4492063492063492 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 1.4492063492063492 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.012775103103896733 
+            text = "" 
+        intervals [2]:
+            xmin = 0.012775103103896733 
+            xmax = 0.11300277445100772 
+            text = "vo" 
+        intervals [3]:
+            xmin = 0.11300277445100772 
+            xmax = 0.3199801084026637 
+            text = "se" 
+        intervals [4]:
+            xmin = 0.3199801084026637 
+            xmax = 0.5341441553387523 
+            text = "fa" 
+        intervals [5]:
+            xmin = 0.5341441553387523 
+            xmax = 0.8201753321191658 
+            text = "lo" 
+        intervals [6]:
+            xmin = 0.8201753321191658 
+            xmax = 1.0659609161867574 
+            text = "kom" 
+        intervals [7]:
+            xmin = 1.0659609161867574 
+            xmax = 1.4364200219383148 
+            text = "ʤon" 
+        intervals [8]:
+            xmin = 1.4364200219383148 
+            xmax = 1.4492063492063492 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 1.4492063492063492 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.012775103103896733 
+            text = "" 
+        intervals [2]:
+            xmin = 0.012775103103896733 
+            xmax = 1.4364200219383148 
+            text = "vose falo kom ʤon" 
+        intervals [3]:
+            xmin = 1.4364200219383148 
+            xmax = 1.4492063492063492 
+            text = "" 

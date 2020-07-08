@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.5693650793650793 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 1.5693650793650793 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.024925584942106768 
+            text = "" 
+        intervals [2]:
+            xmin = 0.024925584942106768 
+            xmax = 0.2547628881236338 
+            text = "eu" 
+        intervals [3]:
+            xmin = 0.2547628881236338 
+            xmax = 0.47883424366027916 
+            text = "fa" 
+        intervals [4]:
+            xmin = 0.47883424366027916 
+            xmax = 0.777080944478021 
+            text = "lej" 
+        intervals [5]:
+            xmin = 0.777080944478021 
+            xmax = 1.1046887194695303 
+            text = "kom" 
+        intervals [6]:
+            xmin = 1.1046887194695303 
+            xmax = 1.5555185933082272 
+            text = "ʤon" 
+        intervals [7]:
+            xmin = 1.5555185933082272 
+            xmax = 1.5693650793650793 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 1.5693650793650793 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.024925584942106768 
+            text = "" 
+        intervals [2]:
+            xmin = 0.024925584942106768 
+            xmax = 1.5555185933082272 
+            text = "eu falej kom ʤon" 
+        intervals [3]:
+            xmin = 1.5555185933082272 
+            xmax = 1.5693650793650793 
+            text = "" 
