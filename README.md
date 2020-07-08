@@ -37,11 +37,11 @@
 2.1 Bengali (M)
 
 ## 3. Philippine
-3.1 Cebuano (M) [a]
+3.1 Cebuano
 
-3.2 Tagalog (M) [a]
+3.2 Tagalog
 
-## 4. [Romance](https://github.com/chengafni/Intonation/tree/Romance/Readme.md)
+## 4. [Romance](https://github.com/chengafni/Intonation/tree/Romance)
 4.1 Catalan
 
 4.2 Italian (central)
