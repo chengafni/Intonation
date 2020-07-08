@@ -9,10 +9,14 @@ The sentences are:
 2. Did you talk to John?    (Polar (yes-no) question)
 3. Who did you talk to?     (wh-question)
 
+* The samples are organized by language family and, when multiple dialects are available, also by main language (see below).
+* The recordings are accompanied by a file containing the written and/or phonetic transcriptions of the sentences.
+
 ## Notes:
-1) The sex of the speaker is indicated in parentheses (F = female, M = male). No other personal demographic information is available.
-2) samples in multiple dialects/languages that were provided by the same speaker are marked with a letter enclosed between sqaure brackets. Each letter is uniquely associated with the speaker.
-3) The name 'John' was replaced in some sample by a name that was more appropriate to the phonology or cultural background of the language.
+1) 
+2) The sex of the speaker is indicated in parentheses (F = female, M = male). No other personal demographic information is available.
+3) Samples in multiple dialects/languages that were provided by the same speaker are marked with a letter enclosed between sqaure brackets. Each letter is uniquely associated with the speaker.
+4) The name 'John' was replaced in some sample by a name that was more appropriate to the phonology or cultural background of the language.
 
 ## Limitations:
 * Each sample in this repository represents the intonation pattern of a single speaker in a single occasion and should not be taken as representative of the given language/dialect. 
