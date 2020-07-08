@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.0809750566893424 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 1.0809750566893424 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.013894558418998212 
+            text = "" 
+        intervals [2]:
+            xmin = 0.013894558418998212 
+            xmax = 0.11674992048700492 
+            text = "hu" 
+        intervals [3]:
+            xmin = 0.11674992048700492 
+            xmax = 0.2815630904055613 
+            text = "dɪd" 
+        intervals [4]:
+            xmin = 0.2815630904055613 
+            xmax = 0.4219201125297513 
+            text = "jʊ" 
+        intervals [5]:
+            xmin = 0.4219201125297513 
+            xmax = 0.6834945628521054 
+            text = "tɔːk" 
+        intervals [6]:
+            xmin = 0.6834945628521054 
+            xmax = 1.0670721260730571 
+            text = "tuː" 
+        intervals [7]:
+            xmin = 1.0670721260730571 
+            xmax = 1.0809750566893424 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 1.0809750566893424 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.013894558418998212 
+            text = "" 
+        intervals [2]:
+            xmin = 0.013894558418998212 
+            xmax = 1.0670721260730571 
+            text = "huː dɪd jʊ tɔːk tuː" 
+        intervals [3]:
+            xmin = 1.0670721260730571 
+            xmax = 1.0809750566893424 
+            text = "" 
