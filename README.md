@@ -5,9 +5,9 @@
 * The aim is to demonstrate a possible typology of intonation patterns of various sentence types:
 
 The sentences are:
-i) I talked to John   (Declarative)
-ii) Did you talk to John?   (Polar (yes-no) question)
-iii) Who did you talk to?   (wh-question)
+1. I talked to John         (Declarative)
+2. Did you talk to John?    (Polar (yes-no) question)
+3. Who did you talk to?     (wh-question)
 
 ## Notes:
 1) The sex of the speaker is indicated in parentheses (F = female, M = male). No other personal demographic information is available.
