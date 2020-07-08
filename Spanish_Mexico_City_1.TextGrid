@@ -1,0 +1,56 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.0721995464852607 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 1.0721995464852607 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.0116167288583258 
+            text = "" 
+        intervals [2]:
+            xmin = 0.0116167288583258 
+            xmax = 0.16641648447126342 
+            text = "hab" 
+        intervals [3]:
+            xmin = 0.16641648447126342 
+            xmax = 0.3255463031782692 
+            text = "lé" 
+        intervals [4]:
+            xmin = 0.3255463031782692 
+            xmax = 0.5756074468607069 
+            text = "con" 
+        intervals [5]:
+            xmin = 0.5756074468607069 
+            xmax = 1.0573269660757925 
+            text = "Juan" 
+        intervals [6]:
+            xmin = 1.0573269660757925 
+            xmax = 1.0721995464852607 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 1.0721995464852607 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.0116167288583258 
+            text = "" 
+        intervals [2]:
+            xmin = 0.0116167288583258 
+            xmax = 1.0573269660757925 
+            text = "Hablé con Juan" 
+        intervals [3]:
+            xmin = 1.0573269660757925 
+            xmax = 1.0721995464852607 
+            text = "" 
