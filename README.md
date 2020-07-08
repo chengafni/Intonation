@@ -36,7 +36,7 @@
 ## 2. Indo-Aryan
 2.1 Bengali (M)
 
-## 3. Philippine
+## 3. [Philippine](https://github.com/chengafni/Intonation/tree/Philippine)
 3.1 Cebuano
 
 3.2 Tagalog
