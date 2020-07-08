@@ -58,8 +58,8 @@
 ### 5.2 Hebrew
 5.2.1 Hebrew (M)
 
-## 6. Sino-Tibetan
-6.1 Mandarin Chinese (M)
+## 6. [Sino-Tibetan](https://github.com/chengafni/Intonation/tree/Sino-Tibetan)
+6.1 Mandarin Chinese
 
 ## 7. Slavic
 7.1 Bulgarian (standard) (F)
