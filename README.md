@@ -2,11 +2,12 @@
 *Intonation patterns in various languages and dialects.*
 
 * This repository contains recordings of three sentences in various languages and dialects.
+* The aim is to demonstrate a possible typology of intonation patterns of various sentence types.
 
 The sentences:
-1) I talked to John
-2) Did you talk to John?
-3) Who did you talk to?
+i) Declarative: I talked to John
+ii) Polar (yes-no) question: Did you talk to John?
+iii) wh-question: Who did you talk to?
 
 ## Notes:
 1) The sex of the speaker is indicated in parentheses (F = female, M = male). No other personal demographic information is available.
