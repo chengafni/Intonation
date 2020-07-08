@@ -41,16 +41,16 @@
 
 3.2 Tagalog (M) [a]
 
-## 4. Romance
-4.1 Catalan (F)
+## 4. [Romance] (https://github.com/chengafni/Intonation/tree/Romance)
+4.1 Catalan
 
-4.2 Italian (central) (M)
+4.2 Italian (central)
 
-4.3 Brazilian Portuguese (Sao Paulo) (F)
+4.3 Brazilian Portuguese (Sao Paulo)
 
-4.4 Cuban Spanish (M)
+4.4 Cuban Spanish
 
-4.5 Mexico City Spanish (M)
+4.5 Mexico City Spanish
 
 ## 5. Semitic
 ### 5.1 [Arabic (4 dialects)](https://github.com/chengafni/Intonation/tree/Arabic)
