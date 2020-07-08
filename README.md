@@ -12,6 +12,7 @@ The sentences are:
 ## Notes:
 1) The sex of the speaker is indicated in parentheses (F = female, M = male). No other personal demographic information is available.
 2) samples in multiple dialects/languages that were provided by the same speaker are marked with a letter enclosed between sqaure brackets. Each letter is uniquely associated with the speaker.
+3) The name 'John' was replaced in some sample by a name that was more appropriate to the phonology or cultural background of the language.
 
 ## Limitations:
 * Each sample in this repository represents the intonation pattern of a single speaker in a single occasion and should not be taken as representative of the given language/dialect. 
