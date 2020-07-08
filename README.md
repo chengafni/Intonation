@@ -33,8 +33,8 @@
 
 1.2 Australian English
 
-## 2. Indo-Aryan
-2.1 Bengali (M)
+## 2. [Indo-Aryan](https://github.com/chengafni/Intonation/tree/Indo-Aryan)
+2.1 Bengali
 
 ## 3. [Philippine](https://github.com/chengafni/Intonation/tree/Philippine)
 3.1 Cebuano
@@ -48,9 +48,7 @@
 
 4.3 Brazilian Portuguese (Sao Paulo)
 
-4.4 Cuban Spanish
-
-4.5 Mexico City Spanish
+4.4 Spanish (2 dialects)
 
 ## 5. Semitic
 ### 5.1 [Arabic (4 dialects)](https://github.com/chengafni/Intonation/tree/Arabic)
