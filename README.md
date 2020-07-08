@@ -12,6 +12,13 @@ The sentences:
 1) The sex of the speaker is indicated in parentheses (F = female, M = male). No other personal demographic information is available.
 2) samples in multiple dialects/languages that were provided by the same speaker are marked with a letter enclosed between sqaure brackets. Each letter is uniquely associated with the speaker.
 
+## Limitations:
+* Each sample in this repository represents the intonation pattern of a single speaker in a single occasion and should not be taken as representative of the given language/dialect. 
+* Limiting factors include:
+1. Individual differences (gender, age, style, etc.)
+2. Ambiguity: each sentence can be uttered with different intonation patterns, which reflect various factors, such as focus.
+3. Extra linguistic factors such as speaker’s mood also affect intonation.
+
 # Languages and dialects by family:
 
 ## 1. Germanic
