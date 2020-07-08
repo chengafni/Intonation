@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.0384126984126985 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 2.0384126984126985 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.009736997426679035 
+            text = "" 
+        intervals [2]:
+            xmin = 0.009736997426679035 
+            xmax = 0.1537987753244435 
+            text = "na" 
+        intervals [3]:
+            xmin = 0.1537987753244435 
+            xmax = 0.3781235437652482 
+            text = "kiɡ" 
+        intervals [4]:
+            xmin = 0.3781235437652482 
+            xmax = 0.6621310487636982 
+            text = "stu" 
+        intervals [5]:
+            xmin = 0.6621310487636982 
+            xmax = 0.9070360711898978 
+            text = "ɾja" 
+        intervals [6]:
+            xmin = 0.9070360711898978 
+            xmax = 1.1437089920219392 
+            text = "ko" 
+        intervals [7]:
+            xmin = 1.1437089920219392 
+            xmax = 1.6088227320918647 
+            text = "kaŋ" 
+        intervals [8]:
+            xmin = 1.6088227320918647 
+            xmax = 2.028659913393921 
+            text = "dʒan" 
+        intervals [9]:
+            xmin = 2.028659913393921 
+            xmax = 2.0384126984126985 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 2.0384126984126985 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.009736997426679035 
+            text = "" 
+        intervals [2]:
+            xmin = 0.009736997426679035 
+            xmax = 2.028659913393921 
+            text = "nakiɡstuɾja ko kaŋ dʒan" 
+        intervals [3]:
+            xmin = 2.028659913393921 
+            xmax = 2.0384126984126985 
+            text = "" 

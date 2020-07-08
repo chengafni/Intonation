@@ -1,0 +1,72 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.7211791383219954 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 1.7211791383219954 
+        intervals: size = 10 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.00995939008749624 
+            text = "" 
+        intervals [2]:
+            xmin = 0.00995939008749624 
+            xmax = 0.2011107414967291 
+            text = "kin" 
+        intervals [3]:
+            xmin = 0.2011107414967291 
+            xmax = 0.43744332142087156 
+            text = "sa" 
+        intervals [4]:
+            xmin = 0.43744332142087156 
+            xmax = 0.652923026645825 
+            text = "man" 
+        intervals [5]:
+            xmin = 0.652923026645825 
+            xmax = 0.800630889098414 
+            text = "i" 
+        intervals [6]:
+            xmin = 0.800630889098414 
+            xmax = 1.0925711348870604 
+            text = "muŋ" 
+        intervals [7]:
+            xmin = 1.0925711348870604 
+            xmax = 1.1725071545672852 
+            text = "ka" 
+        intervals [8]:
+            xmin = 1.1725071545672852 
+            xmax = 1.4383813069819453 
+            text = "stu" 
+        intervals [9]:
+            xmin = 1.4383813069819453 
+            xmax = 1.7112064176296686 
+            text = "ɾja" 
+        intervals [10]:
+            xmin = 1.7112064176296686 
+            xmax = 1.7211791383219954 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 1.7211791383219954 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.00995939008749624 
+            text = "" 
+        intervals [2]:
+            xmin = 0.00995939008749624 
+            xmax = 1.7112064176296686 
+            text = "kinsa man imuŋ kastuɾja" 
+        intervals [3]:
+            xmin = 1.7112064176296686 
+            xmax = 1.7211791383219954 
+            text = "" 
