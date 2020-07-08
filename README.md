@@ -28,7 +28,7 @@
 
 # Languages and dialects by family:
 
-## 1. Germanic
+## 1. [Germanic](https://github.com/chengafni/Intonation/tree/Germanic)
 1.1 Dutch (F)
 
 1.2 Australian English (F)
