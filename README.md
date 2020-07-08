@@ -61,7 +61,7 @@
 ## 6. [Sino-Tibetan](https://github.com/chengafni/Intonation/tree/Sino-Tibetan)
 6.1 Mandarin Chinese
 
-## 7. Slavic
+## 7. [Slavic](https://github.com/chengafni/Intonation/tree/Slavic)
 7.1 Bulgarian (standard)
 
 7.2 Serbian
