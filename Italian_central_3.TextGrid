@@ -1,0 +1,64 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.2672108843537415 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 1.2672108843537415 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.012450172659492692 
+            text = "" 
+        intervals [2]:
+            xmin = 0.012450172659492692 
+            xmax = 0.2120371067599781 
+            text = "com" 
+        intervals [3]:
+            xmin = 0.2120371067599781 
+            xmax = 0.4052270237418582 
+            text = "chi" 
+        intervals [4]:
+            xmin = 0.4052270237418582 
+            xmax = 0.5434025935037328 
+            text = "hai" 
+        intervals [5]:
+            xmin = 0.5434025935037328 
+            xmax = 0.7660187892311972 
+            text = "par" 
+        intervals [6]:
+            xmin = 0.7660187892311972 
+            xmax = 0.9783997575688932 
+            text = "la" 
+        intervals [7]:
+            xmin = 0.9783997575688932 
+            xmax = 1.2547508970926422 
+            text = "to" 
+        intervals [8]:
+            xmin = 1.2547508970926422 
+            xmax = 1.2672108843537415 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 1.2672108843537415 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.012450172659492692 
+            text = "" 
+        intervals [2]:
+            xmin = 0.012450172659492692 
+            xmax = 1.2547508970926422 
+            text = "Con chi hai parlato?" 
+        intervals [3]:
+            xmin = 1.2547508970926422 
+            xmax = 1.2672108843537415 
+            text = "" 

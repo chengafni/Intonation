@@ -1,0 +1,72 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.5750566893424036 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 1.5750566893424036 
+        intervals: size = 10 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.01229429298734938 
+            text = "" 
+        intervals [2]:
+            xmin = 0.01229429298734938 
+            xmax = 0.19516857915765676 
+            text = "ho" 
+        intervals [3]:
+            xmin = 0.19516857915765676 
+            xmax = 0.3923547659847708 
+            text = "par" 
+        intervals [4]:
+            xmin = 0.3923547659847708 
+            xmax = 0.6292962324141256 
+            text = "la" 
+        intervals [5]:
+            xmin = 0.6292962324141256 
+            xmax = 0.7644641830617441 
+            text = "to" 
+        intervals [6]:
+            xmin = 0.7644641830617441 
+            xmax = 1.0157175501479054 
+            text = "con" 
+        intervals [7]:
+            xmin = 1.0157175501479054 
+            xmax = 1.2113135257909298 
+            text = "gia" 
+        intervals [8]:
+            xmin = 1.2113135257909298 
+            xmax = 1.3878269672248786 
+            text = "co" 
+        intervals [9]:
+            xmin = 1.3878269672248786 
+            xmax = 1.5643404086588275 
+            text = "mo" 
+        intervals [10]:
+            xmin = 1.5643404086588275 
+            xmax = 1.5750566893424036 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 1.5750566893424036 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.01229429298734938 
+            text = "" 
+        intervals [2]:
+            xmin = 0.01229429298734938 
+            xmax = 1.5643404086588275 
+            text = "Ho parlato con Giacomo" 
+        intervals [3]:
+            xmin = 1.5643404086588275 
+            xmax = 1.5750566893424036 
+            text = "" 
