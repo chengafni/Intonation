@@ -1,7 +1,7 @@
 # Intonation
 *Intonation patterns in various languages and dialects.*
 
-**Updated:** 8 July 2020
+**Updated:** 9 July 2020
 
 * This repository contains recordings of three sentences in various languages and dialects.
 * The aim is to demonstrate a possible typology of intonation patterns of various sentence types.
@@ -13,6 +13,7 @@
 * The samples are organized by language family and, when multiple dialects from the same language are available, also by main language (see below).
 * The recordings are accompanied by TextGrid files for viewing on Praat. 
 * An additional PDF file contains the written and/or phonetic transcriptions of the sentences.
+* Some transcriptions and TextGrid files will be added later.
 
 ## Notes:
 1) The sex of the speaker is indicated in parentheses (F = female, M = male). No other personal demographic information is available.
