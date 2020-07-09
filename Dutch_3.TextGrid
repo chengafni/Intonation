@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.7590702947845804 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 1.7590702947845804 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.010178642575325685 
+            text = "" 
+        intervals [2]:
+            xmin = 0.010178642575325685 
+            xmax = 0.257041987409758 
+            text = "met" 
+        intervals [3]:
+            xmin = 0.257041987409758 
+            xmax = 0.5039053322441902 
+            text = "wie" 
+        intervals [4]:
+            xmin = 0.5039053322441902 
+            xmax = 0.7241287477799427 
+            text = "heb" 
+        intervals [5]:
+            xmin = 0.7241287477799427 
+            xmax = 0.9301442010230659 
+            text = "je" 
+        intervals [6]:
+            xmin = 0.9301442010230659 
+            xmax = 1.1255036825467173 
+            text = "ges" 
+        intervals [7]:
+            xmin = 1.1255036825467173 
+            xmax = 1.4345268624114023 
+            text = "pro" 
+        intervals [8]:
+            xmin = 1.4345268624114023 
+            xmax = 1.7488780281358234 
+            text = "ken" 
+        intervals [9]:
+            xmin = 1.7488780281358234 
+            xmax = 1.7590702947845804 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 1.7590702947845804 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.010178642575325685 
+            text = "" 
+        intervals [2]:
+            xmin = 0.010178642575325685 
+            xmax = 1.7488780281358234 
+            text = "Met wie heb je gesproken?" 
+        intervals [3]:
+            xmin = 1.7488780281358234 
+            xmax = 1.7590702947845804 
+            text = "" 

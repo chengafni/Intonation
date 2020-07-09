@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.9031292517006804 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 1.9031292517006804 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.012933662216872796 
+            text = "" 
+        intervals [2]:
+            xmin = 0.012933662216872796 
+            xmax = 0.18009896959478633 
+            text = "Ik" 
+        intervals [3]:
+            xmin = 0.18009896959478633 
+            xmax = 0.3530285979167659 
+            text = "heb" 
+        intervals [4]:
+            xmin = 0.3530285979167659 
+            xmax = 0.568229913161896 
+            text = "met" 
+        intervals [5]:
+            xmin = 0.568229913161896 
+            xmax = 0.998632543652156 
+            text = "John" 
+        intervals [6]:
+            xmin = 0.998632543652156 
+            xmax = 1.2176767395266634 
+            text = "ges" 
+        intervals [7]:
+            xmin = 1.2176767395266634 
+            xmax = 1.5520073542824906 
+            text = "pro" 
+        intervals [8]:
+            xmin = 1.5520073542824906 
+            xmax = 1.8882594093530063 
+            text = "ken" 
+        intervals [9]:
+            xmin = 1.8882594093530063 
+            xmax = 1.9031292517006804 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 1.9031292517006804 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.012933662216872796 
+            text = "" 
+        intervals [2]:
+            xmin = 0.012933662216872796 
+            xmax = 1.8882594093530063 
+            text = "Ik heb met John gesproken" 
+        intervals [3]:
+            xmin = 1.8882594093530063 
+            xmax = 1.9031292517006804 
+            text = "" 
