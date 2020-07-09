@@ -51,11 +51,10 @@
 
 4.4 Spanish (2 dialects)
 
-## 5. Semitic
-### 5.1 [Arabic (4 dialects)](https://github.com/chengafni/Intonation/tree/Arabic)
+## 5. [Semitic](https://github.com/chengafni/Intonation/tree/Semitic)
+5.1 Arabic (4 dialects)
 
-### 5.2 Hebrew
-5.2.1 Hebrew (M)
+5.2 Hebrew
 
 ## 6. [Sino-Tibetan](https://github.com/chengafni/Intonation/tree/Sino-Tibetan)
 6.1 Mandarin Chinese
