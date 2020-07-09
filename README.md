@@ -16,7 +16,7 @@
 
 * The samples are organized by language family and, when multiple dialects from the same language are available, also by main language (see below).
 * The recordings are accompanied by TextGrid files for viewing on Praat. 
-* An additional PDF file contains the written and/or phonetic transcriptions of the sentences.
+* An additional PDF file contains the written form and/or phonetic transcriptions of the sentences.
 * Some transcriptions and TextGrid files will be added later.
 
 ---
