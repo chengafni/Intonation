@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.7452380952380953 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 0.7452380952380953 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.011836312461129898 
+            text = "" 
+        intervals [2]:
+            xmin = 0.011836312461129898 
+            xmax = 0.13598370582770686 
+            text = "im" 
+        intervals [3]:
+            xmin = 0.13598370582770686 
+            xmax = 0.24207329652278173 
+            text = "mi" 
+        intervals [4]:
+            xmin = 0.24207329652278173 
+            xmax = 0.344400844994627 
+            text = "di" 
+        intervals [5]:
+            xmin = 0.344400844994627 
+            xmax = 0.5580848432740685 
+            text = "baʁ" 
+        intervals [6]:
+            xmin = 0.5580848432740685 
+            xmax = 0.7333960108765681 
+            text = "ta" 
+        intervals [7]:
+            xmin = 0.7333960108765681 
+            xmax = 0.7452380952380953 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 0.7452380952380953 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.011836312461129898 
+            text = "" 
+        intervals [2]:
+            xmin = 0.011836312461129898 
+            xmax = 0.7333960108765681 
+            text = "im mi dibaʁta?" 
+        intervals [3]:
+            xmin = 0.7333960108765681 
+            xmax = 0.7452380952380953 
+            text = "" 

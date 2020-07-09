@@ -1,0 +1,72 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.5541950113378684 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 1.5541950113378684 
+        intervals: size = 10 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.008993157101035416 
+            text = "" 
+        intervals [2]:
+            xmin = 0.008993157101035416 
+            xmax = 0.23776358737332307 
+            text = "hal" 
+        intervals [3]:
+            xmin = 0.23776358737332307 
+            xmax = 0.3596111492446192 
+            text = "ta" 
+        intervals [4]:
+            xmin = 0.3596111492446192 
+            xmax = 0.4827831411362555 
+            text = "kal" 
+        intervals [5]:
+            xmin = 0.4827831411362555 
+            xmax = 0.6258215833329944 
+            text = "lam" 
+        intervals [6]:
+            xmin = 0.6258215833329944 
+            xmax = 0.7728333155907539 
+            text = "ta" 
+        intervals [7]:
+            xmin = 0.7728333155907539 
+            xmax = 0.9211694778688535 
+            text = "ma" 
+        intervals [8]:
+            xmin = 0.9211694778688535 
+            xmax = 1.0430170397401497 
+            text = "ʕa" 
+        intervals [9]:
+            xmin = 1.0430170397401497 
+            xmax = 1.3208015407761384 
+            text = "ʒon" 
+        intervals [10]:
+            xmin = 1.3208015407761384 
+            xmax = 1.5541950113378684 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 1.5541950113378684 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.008993157101035416 
+            text = "" 
+        intervals [2]:
+            xmin = 0.008993157101035416 
+            xmax = 1.3208015407761384 
+            text = "hal takallamta maʕa ʒon?" 
+        intervals [3]:
+            xmin = 1.3208015407761384 
+            xmax = 1.5541950113378684 
+            text = "" 

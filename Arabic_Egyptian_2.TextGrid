@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.063424036281179 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 1.063424036281179 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.013668962391721575 
+            text = "" 
+        intervals [2]:
+            xmin = 0.013668962391721575 
+            xmax = 0.11029798702492948 
+            text = "et" 
+        intervals [3]:
+            xmin = 0.11029798702492948 
+            xmax = 0.23591571904809977 
+            text = "ka" 
+        intervals [4]:
+            xmin = 0.23591571904809977 
+            xmax = 0.425952800826742 
+            text = "lem" 
+        intervals [5]:
+            xmin = 0.425952800826742 
+            xmax = 0.5150662346551448 
+            text = "ta" 
+        intervals [6]:
+            xmin = 0.5150662346551448 
+            xmax = 0.6106216034590948 
+            text = "ma" 
+        intervals [7]:
+            xmin = 0.6106216034590948 
+            xmax = 0.6814828881901139 
+            text = "ʕa" 
+        intervals [8]:
+            xmin = 0.6814828881901139 
+            xmax = 0.9874747995286056 
+            text = "ʤon" 
+        intervals [9]:
+            xmin = 0.9874747995286056 
+            xmax = 1.063424036281179 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 1.063424036281179 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.013668962391721575 
+            text = "" 
+        intervals [2]:
+            xmin = 0.013668962391721575 
+            xmax = 0.9874747995286056 
+            text = "etkalemta maʕa ʤon?" 
+        intervals [3]:
+            xmin = 0.9874747995286056 
+            xmax = 1.063424036281179 
+            text = "" 

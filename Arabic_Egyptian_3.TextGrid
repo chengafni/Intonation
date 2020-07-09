@@ -1,0 +1,56 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.8217233560090703 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 0.8217233560090703 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.01139183741160102 
+            text = "" 
+        intervals [2]:
+            xmin = 0.01139183741160102 
+            xmax = 0.07859183602968682 
+            text = "ka" 
+        intervals [3]:
+            xmin = 0.07859183602968682 
+            xmax = 0.31088812754899575 
+            text = "lam " 
+        intervals [4]:
+            xmin = 0.31088812754899575 
+            xmax = 0.3930214591933229 
+            text = "te" 
+        intervals [5]:
+            xmin = 0.3930214591933229 
+            xmax = 0.8070066358652341 
+            text = "mi:n" 
+        intervals [6]:
+            xmin = 0.8070066358652341 
+            xmax = 0.8217233560090703 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 0.8217233560090703 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.01139183741160102 
+            text = "" 
+        intervals [2]:
+            xmin = 0.01139183741160102 
+            xmax = 0.8070066358652341 
+            text = "kalamte mi:n?" 
+        intervals [3]:
+            xmin = 0.8070066358652341 
+            xmax = 0.8217233560090703 
+            text = "" 

@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.341360544217687 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 1.341360544217687 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.0131786828698667 
+            text = "" 
+        intervals [2]:
+            xmin = 0.0131786828698667 
+            xmax = 0.19072629425989351 
+            text = "ʔin" 
+        intervals [3]:
+            xmin = 0.19072629425989351 
+            xmax = 0.32216315571332227 
+            text = "ti" 
+        intervals [4]:
+            xmin = 0.32216315571332227 
+            xmax = 0.4947570141875217 
+            text = "ħa" 
+        intervals [5]:
+            xmin = 0.4947570141875217 
+            xmax = 0.7602860272247515 
+            text = "keːt" 
+        intervals [6]:
+            xmin = 0.7602860272247515 
+            xmax = 0.8452553113966651 
+            text = "ma " 
+        intervals [7]:
+            xmin = 0.8452553113966651 
+            xmax = 0.9408457560900678 
+            text = "ʕa" 
+        intervals [8]:
+            xmin = 0.9408457560900678 
+            xmax = 1.3281714724539788 
+            text = "ʤon" 
+        intervals [9]:
+            xmin = 1.3281714724539788 
+            xmax = 1.341360544217687 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 1.341360544217687 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.0131786828698667 
+            text = "" 
+        intervals [2]:
+            xmin = 0.0131786828698667 
+            xmax = 1.3281714724539788 
+            text = "ʔinti ħake:t maʕ ʤon?" 
+        intervals [3]:
+            xmin = 1.3281714724539788 
+            xmax = 1.341360544217687 
+            text = "" 

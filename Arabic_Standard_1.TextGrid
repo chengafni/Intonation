@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.2716326530612245 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 1.2716326530612245 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.03303549971643662 
+            text = "" 
+        intervals [2]:
+            xmin = 0.03303549971643662 
+            xmax = 0.1245233713316905 
+            text = "ta" 
+        intervals [3]:
+            xmin = 0.1245233713316905 
+            xmax = 0.30050915685092705 
+            text = "kal" 
+        intervals [4]:
+            xmin = 0.30050915685092705 
+            xmax = 0.4964178614855489 
+            text = "lam" 
+        intervals [5]:
+            xmin = 0.4964178614855489 
+            xmax = 0.6203826915368351 
+            text = "tu" 
+        intervals [6]:
+            xmin = 0.6203826915368351 
+            xmax = 0.7233177736329923 
+            text = "ma" 
+        intervals [7]:
+            xmin = 0.7233177736329923 
+            xmax = 0.8937694149535108 
+            text = "ʕa" 
+        intervals [8]:
+            xmin = 0.8937694149535108 
+            xmax = 1.2154776852354388 
+            text = "ʒon" 
+        intervals [9]:
+            xmin = 1.2154776852354388 
+            xmax = 1.2716326530612245 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 1.2716326530612245 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.03303549971643662 
+            text = "" 
+        intervals [2]:
+            xmin = 0.03303549971643662 
+            xmax = 1.2154776852354388 
+            text = "takallamtu maʕa ʒon" 
+        intervals [3]:
+            xmin = 1.2154776852354388 
+            xmax = 1.2716326530612245 
+            text = "" 

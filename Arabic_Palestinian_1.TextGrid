@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.5463945578231293 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 1.5463945578231293 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.012070567298665106 
+            text = "" 
+        intervals [2]:
+            xmin = 0.012070567298665106 
+            xmax = 0.13541115628374908 
+            text = "ʔa" 
+        intervals [3]:
+            xmin = 0.13541115628374908 
+            xmax = 0.40395016015000784 
+            text = "naː" 
+        intervals [4]:
+            xmin = 0.40395016015000784 
+            xmax = 0.6178445992760395 
+            text = "ħa" 
+        intervals [5]:
+            xmin = 0.6178445992760395 
+            xmax = 0.908241429038389 
+            text = "keːt" 
+        intervals [6]:
+            xmin = 0.908241429038389 
+            xmax = 0.9987952791793368 
+            text = "ma" 
+        intervals [7]:
+            xmin = 0.9987952791793368 
+            xmax = 1.109645681938083 
+            text = "ʕa" 
+        intervals [8]:
+            xmin = 1.109645681938083 
+            xmax = 1.526505647242101 
+            text = "ʤon" 
+        intervals [9]:
+            xmin = 1.526505647242101 
+            xmax = 1.5463945578231293 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 1.5463945578231293 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.012070567298665106 
+            text = "" 
+        intervals [2]:
+            xmin = 0.012070567298665106 
+            xmax = 1.526505647242101 
+            text = "ʔana ħake:t maʕ ʤon" 
+        intervals [3]:
+            xmin = 1.526505647242101 
+            xmax = 1.5463945578231293 
+            text = "" 

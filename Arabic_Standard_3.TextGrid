@@ -1,0 +1,64 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.1377777777777778 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 1.1377777777777778 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.012327235157671841 
+            text = "" 
+        intervals [2]:
+            xmin = 0.012327235157671841 
+            xmax = 0.09959333942356381 
+            text = "ma" 
+        intervals [3]:
+            xmin = 0.09959333942356381 
+            xmax = 0.2006331543508176 
+            text = "ʕa" 
+        intervals [4]:
+            xmin = 0.2006331543508176 
+            xmax = 0.3780141627786631 
+            text = "man" 
+        intervals [5]:
+            xmin = 0.3780141627786631 
+            xmax = 0.4936486176398535 
+            text = "ta" 
+        intervals [6]:
+            xmin = 0.4936486176398535 
+            xmax = 0.6766429491192131 
+            text = "kal" 
+        intervals [7]:
+            xmin = 0.6766429491192131 
+            xmax = 1.1242930055139781 
+            text = "lamt" 
+        intervals [8]:
+            xmin = 1.1242930055139781 
+            xmax = 1.1377777777777778 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 1.1377777777777778 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.012327235157671841 
+            text = "" 
+        intervals [2]:
+            xmin = 0.012327235157671841 
+            xmax = 1.1242930055139781 
+            text = "maʕa man takallamt?" 
+        intervals [3]:
+            xmin = 1.1242930055139781 
+            xmax = 1.1377777777777778 
+            text = "" 
