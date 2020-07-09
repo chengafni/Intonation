@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.3850793650793651 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 1.3850793650793651 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.009412996324599944 
+            text = "" 
+        intervals [2]:
+            xmin = 0.009412996324599944 
+            xmax = 0.1240822868920941 
+            text = "s" 
+        intervals [3]:
+            xmin = 0.1240822868920941 
+            xmax = 0.3450304321319 
+            text = "ko" 
+        intervals [4]:
+            xmin = 0.3450304321319 
+            xmax = 0.6275084406030441 
+            text = "ɡo" 
+        intervals [5]:
+            xmin = 0.6275084406030441 
+            xmax = 0.8610422396856237 
+            text = "vo" 
+        intervals [6]:
+            xmin = 0.8610422396856237 
+            xmax = 1.2511975088116098 
+            text = "ri" 
+        intervals [7]:
+            xmin = 1.2511975088116098 
+            xmax = 1.3850793650793651 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 1.3850793650793651 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.009412996324599944 
+            text = "" 
+        intervals [2]:
+            xmin = 0.009412996324599944 
+            xmax = 1.2511975088116098 
+            text = "s koɡo ɡvori?" 
+        intervals [3]:
+            xmin = 1.2511975088116098 
+            xmax = 1.3850793650793651 
+            text = "" 

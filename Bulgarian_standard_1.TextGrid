@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.0447619047619048 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 1.0447619047619048 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.00920982788935907 
+            text = "" 
+        intervals [2]:
+            xmin = 0.00920982788935907 
+            xmax = 0.32565406959283844 
+            text = "ɡvo" 
+        intervals [3]:
+            xmin = 0.32565406959283844 
+            xmax = 0.5766998346775987 
+            text = "ris" 
+        intervals [4]:
+            xmin = 0.5766998346775987 
+            xmax = 1.0302699144525858 
+            text = "dʒɒn" 
+        intervals [5]:
+            xmin = 1.0302699144525858 
+            xmax = 1.0447619047619048 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Sentence" 
+        xmin = 0 
+        xmax = 1.0447619047619048 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.00920982788935907 
+            text = "" 
+        intervals [2]:
+            xmin = 0.00920982788935907 
+            xmax = 1.0302699144525858 
+            text = "ɡvorix   s  dʒɒn" 
+        intervals [3]:
+            xmin = 1.0302699144525858 
+            xmax = 1.0447619047619048 
+            text = "" 
