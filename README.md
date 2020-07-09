@@ -3,6 +3,10 @@
 
 **Updated:** 9 July 2020
 
+**[Contact me](https://chengafni.wordpress.com/resources/intonation/)**
+
+---
+
 * This repository contains recordings of three sentences in various languages and dialects.
 * The aim is to demonstrate a possible typology of intonation patterns of various sentence types.
 * The sentences are:
@@ -15,10 +19,14 @@
 * An additional PDF file contains the written and/or phonetic transcriptions of the sentences.
 * Some transcriptions and TextGrid files will be added later.
 
+---
+
 ## Notes:
 1) The sex of the speaker is indicated in parentheses (F = female, M = male). No other personal demographic information is available.
 2) Samples in multiple dialects/languages that were provided by the same speaker are marked with a letter enclosed between sqaure brackets. Each letter is uniquely associated with the speaker.
 3) The name 'John' was replaced in some sample by a name that was more appropriate to the phonology or cultural background of the language.
+
+---
 
 ## Limitations:
 * Each sample in this repository represents the intonation pattern of a single speaker in a single occasion and should not be taken as representative of the given language/dialect. 
@@ -26,6 +34,8 @@
 1. Individual differences (gender, age, style, etc.)
 2. Ambiguity: each sentence can be uttered with different intonation patterns, which reflect various factors, such as focus.
 3. Extra linguistic factors such as speaker’s mood also affect intonation.
+
+---
 
 # Languages and dialects by family:
 
