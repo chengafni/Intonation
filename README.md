@@ -16,7 +16,7 @@
 
 * The samples are organized by language family and, when multiple dialects from the same language are available, also by main language (see below).
 * The recordings are accompanied by TextGrid files for viewing on Praat. 
-* An additional file (intonation_samples.pdf) contains the written form and/or phonetic transcriptions of the sentences.
+* An additional file (Intonation_samples.pdf) contains the written form and/or phonetic transcriptions of the sentences.
 * Some transcriptions and TextGrid files will be added later.
 * The files for each language family be accessed via the language family page (see below). 
 * The entire repository is also available in the Samples.rar archive.
