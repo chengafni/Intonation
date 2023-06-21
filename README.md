@@ -2,7 +2,7 @@
 ## Arabic
 1. Egyptian Arabic (F)
 
-2. Palestinain Arabic (central) (F)
+2. Palestinian Arabic (central) (F)
 
 3. Syrian Arabic (F) [b]
 
